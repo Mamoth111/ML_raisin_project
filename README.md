@@ -9,7 +9,6 @@ The dataset used in this project is the famous Raisin dataset, which contains in
 ## Files
 - `Raisin_Dataset.xlsx`: The dataset containing information about different types of raisins.
 - `Capstone Project-2 (Raisin_Class_Prediction).ipynb`: Jupyter Notebook containing the code for data analysis, exploratory data analysis (EDA), outlier analysis, visualization, and building machine learning models.
-- `requirements.txt`: File containing the Python packages required to run the Jupyter Notebook.
 
 ## Data Analysis
 - Exploratory data analysis (EDA) is performed to understand the structure and characteristics of the dataset.
